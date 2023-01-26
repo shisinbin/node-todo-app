@@ -71,6 +71,6 @@ If you have any questions or suggestions, feel free to contact me via [email](ma
 - <a href="https://www.youtube.com/watch?v=yr2pCF9nzWU" target="_blank">How to Break Out of a Promise Chain with JavaScript by Procure Eminence [YouTube]</a>
 - <a href="https://github.com/jdtdesigns" target="_blank">JD Tadlock</a> (for building 95% of this app <a href="https://github.com/jdtdesigns/node_todo_app" target="_blank">here</a>)
 
-<p style="text-align:right">
+<p align="right">
   <a href="#top">Back to top</a>
 </p>
